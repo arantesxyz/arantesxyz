@@ -13,7 +13,7 @@ Go is beautifully designed, with it's fast development and amazing performance I
 ### Skills
 
 * Languages: Java, JavaScript, TypeScript, Go, HTML, CSS and basic Shell, Bash & Python.
-* Frameworks/Libs: Express, Gin, ReactJs, NextJs, TypeORM, Prisma2, Spigot/Bukkit and more...
+* Frameworks/Libs: Express, echo, gorm, ReactJs, NextJs, TypeORM, Prisma2, Spigot/Bukkit and more...
 * Databases: PostgreSQL, MySQL, MongoDB and Redis.
 * Hosting solutions: Heroku, AWS, GCP and Dedicaded Machines (self managed).
 * CI/CD: Github Actions, BitBucket (JIRA) and Jenkins.
