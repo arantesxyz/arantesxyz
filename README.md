@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gustavo a 21 years old developer and curious about how things work.
+A Brazilian Software Engineer and tech enthusiast passionate about infrastructure. I love to venture into Golang, JavaScript, Linux servers, Docker, CI/CD and task automation.
 
 ### Interests
 
